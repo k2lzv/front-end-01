@@ -1,0 +1,26 @@
+.bg-blue{
+    background-color: rgb(22, 64, 136);
+}
+.text-blue{
+    color: rgb(22, 64, 136);
+}
+.center-txt{
+    text-align: center;
+}
+.full-size{
+margin: auto;
+}
+body{
+    background-color: rgb(226, 218, 209);
+    min-height: 100vh;
+}
+.inline{
+    display: inline-block;
+    width: calc(100/4);
+
+}
+.bgc-red{
+    background-color: red;
+}
+
+
